@@ -39,11 +39,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run the project:
-
-```bash
-uvicorn main:app --reload
-```
 
 ## Project
 Learnify was built to make digital learning smarter and more organized using AI-powered tools.
